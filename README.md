@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/a1e661f0-fa54-4f36-8e8e-1f04d07b4fe2)
+
 # Multi Quiz App
 
 A Simple Multi Quiz React application built with Vite, TypeScript, and TailwindCSS.
